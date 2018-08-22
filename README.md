@@ -1,2 +1,0 @@
-# PandasTutorial
-Basic Pandas Tutorial
